@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "client": "Kinnovating Network",
+    "title": "Kinnovating.io",
+    "description": "Plataforma digital para innovación empresarial y desarrollo de proyectos tecnológicos.",
+    "image": "https://movating.io/assets/kinnovating_isp_website_preview-B-Lp-u_M.png",
+    "technologies": ["React", "Node.js", "TypeScript"],
+    "url": "https://kinnovating.io"
+  },
+  {
+    "id": 2,
+    "client": "flowpay",
+    "title": "flowpay.mx",
+    "description": "Sistema de pagos y gestión financiera para empresas mexicanas.",
+    "image": "https://movating.io/assets/flowpay_payment_platform_preview-Cs1fiTJz.png",
+    "technologies": ["Next.js", "PostgreSQL", "Stripe"],
+    "url": "https://flowpay.mx/"
+  },
+  {
+    "id": 3,
+    "client": "Ride Transport",
+    "title": "ridetransport.io",
+    "description": "Plataforma de transporte y logística con seguimiento en tiempo real.",
+    "image": "https://movating.io/assets/ride_transport_tourism_preview-D2CO9VHv.png",
+    "technologies": ["React", "Node.js", "MongoDB"],
+    "url": "https://gestorfinanciero.com"
+  },
+  {
+    "id": 4,
+    "client": "Ride Transport",
+    "title": "erp.ridetransport.io",
+    "description": "Sistema ERP completo para gestión integral de operaciones de transporte.",
+    "image": "https://movating.io/assets/tripflow_erp_dashboard_preview--htz6IRn.png",
+    "technologies": ["React", "PostgreSQL"]
+  },
+  {
+    "id": 5,
+    "client": "HotelMindcare",
+    "title": "Plataforma Psicológica",
+    "description": "Aplicación enfocada en promover el bienestar emocional del personal hotelero mediante herramientas digitales accesibles y experiencias intuitivas.",
+    "image": "https://oliver-lucero-cv-2025.netlify.app/img/proyecto4.png",
+    "technologies": ["React Native", "TailwindCSS"]
+  },
+  {
+    "id": 6,
+    "client": "SalesCore",
+    "title": "Sistema Ecommerce Interno",
+    "description": "Sistema de ventas interno enfocado a hoteleria.",
+    "image": "https://firebasestorage.googleapis.com/v0/b/android-commerce-6af1a.appspot.com/o/cv%2Ffaqmodule.png?alt=media&token=2cf5cfa9-9f4a-4b13-a276-0ba1223b2366",
+    "technologies": ["React", "Django", "SQLServer"]
+  }
+]
