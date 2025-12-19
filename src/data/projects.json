@@ -4,7 +4,7 @@
     "client": "Kinnovating Network",
     "title": "Kinnovating.io",
     "description": "Plataforma digital para innovación empresarial y desarrollo de proyectos tecnológicos.",
-    "image": "https://movating.io/assets/kinnovating_isp_website_preview-B-Lp-u_M.png",
+    "image": "/proyecto1.webp",
     "technologies": ["React", "Node.js", "TypeScript"],
     "url": "https://kinnovating.io"
   },
@@ -13,7 +13,7 @@
     "client": "flowpay",
     "title": "flowpay.mx",
     "description": "Sistema de pagos y gestión financiera para empresas mexicanas.",
-    "image": "https://movating.io/assets/flowpay_payment_platform_preview-Cs1fiTJz.png",
+    "image": "/proyecto2.webp",
     "technologies": ["Next.js", "PostgreSQL", "Stripe"],
     "url": "https://flowpay.mx/"
   },
@@ -22,7 +22,7 @@
     "client": "Ride Transport",
     "title": "ridetransport.io",
     "description": "Plataforma de transporte y logística con seguimiento en tiempo real.",
-    "image": "https://movating.io/assets/ride_transport_tourism_preview-D2CO9VHv.png",
+    "image": "/proyecto3.webp",
     "technologies": ["React", "Node.js", "MongoDB"],
     "url": "https://ridetransport.io/"
   },
@@ -31,7 +31,7 @@
     "client": "Ride Transport",
     "title": "erp.ridetransport.io",
     "description": "Sistema ERP completo para gestión integral de operaciones de transporte.",
-    "image": "https://movating.io/assets/tripflow_erp_dashboard_preview--htz6IRn.png",
+    "image": "/proyecto4.webp",
     "technologies": ["React", "PostgreSQL"]
   },
   {
