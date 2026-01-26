@@ -49,5 +49,14 @@
     "description": "Sistema de ventas interno enfocado a hoteleria.",
     "image": "https://firebasestorage.googleapis.com/v0/b/android-commerce-6af1a.appspot.com/o/cv%2Ffaqmodule.png?alt=media&token=2cf5cfa9-9f4a-4b13-a276-0ba1223b2366",
     "technologies": ["React", "Django", "SQLServer"]
+  },
+  {
+    "id": 7,
+    "client": "Limón | Trader 🍋🇲🇽",
+    "title": "Temario Educativo",
+    "description": "Sitio web con temario interactivo personalizado",
+    "image": "/proyecto5.webp",
+    "technologies": ["React", "TailwindCSS"],
+    "url": "https://temario-limon-trader.impulsodigital1.workers.dev/"
   }
 ]
