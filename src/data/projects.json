@@ -39,7 +39,7 @@
     "client": "HotelMindcare",
     "title": "Plataforma Psicológica",
     "description": "Aplicación enfocada en promover el bienestar emocional del personal hotelero mediante herramientas digitales accesibles y experiencias intuitivas.",
-    "image": "https://oliver-lucero-cv-2025.netlify.app/img/proyecto4.png",
+    "image": "/proyecto5.png",
     "technologies": ["React Native", "TailwindCSS"]
   },
   {
@@ -47,7 +47,7 @@
     "client": "SalesCore",
     "title": "Sistema Ecommerce Interno",
     "description": "Sistema de ventas interno enfocado a hoteleria.",
-    "image": "https://firebasestorage.googleapis.com/v0/b/android-commerce-6af1a.appspot.com/o/cv%2Ffaqmodule.png?alt=media&token=2cf5cfa9-9f4a-4b13-a276-0ba1223b2366",
+    "image": "/proyecto6.jpeg",
     "technologies": ["React", "Django", "SQLServer"]
   },
   {
@@ -55,7 +55,7 @@
     "client": "Limón | Trader 🍋🇲🇽",
     "title": "Temario Educativo",
     "description": "Sitio web con temario interactivo personalizado",
-    "image": "/proyecto5.webp",
+    "image": "/proyecto7.webp",
     "technologies": ["React", "TailwindCSS"],
     "url": "https://temario-limon-trader.impulsodigital1.workers.dev/"
   }

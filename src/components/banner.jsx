@@ -11,7 +11,7 @@ export default function Banner() {
                   </svg>
                 </div>
                   <div className="text-6xl md:text-7xl font-bold text-black mb-4" data-testid="text-stat-value-0">
-                    100+
+                    10+
                   </div>
                   <p className="text-gray-600 text-base" data-testid="text-stat-label-0">Empresas confían en nosotros</p>
               </div>

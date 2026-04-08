@@ -33,8 +33,8 @@ export default function Footer() {
         <div>
           <h4 className="font-semibold mb-4 text-lg text-black">Catálogo</h4>
             <ul className="space-y-3 text-base text-gray-600">
-              <li><a href="#catalog" className="hover:text-black transition-colors">ISPs</a></li>
-              <li><a href="#catalog" className="hover:text-black transition-colors">Nómina</a></li>
+              <li><a href="#catalog" className="hover:text-black transition-colors">Generador de imágenes</a></li>
+              <li><a href="#catalog" className="hover:text-black transition-colors">Catálogos web</a></li>
               <li><a href="#catalog" className="hover:text-black transition-colors">E-commerce</a></li>
               <li><a href="#catalog" className="hover:text-black transition-colors">Delivery</a></li>
             </ul>
@@ -52,7 +52,7 @@ export default function Footer() {
         </div> */}
       </div>
       <div className="border-t-2 border-gray-200 pt-8 text-center">
-        <p className="text-sm text-gray-600 font-medium">© 2025 Impulso Digital. Todos los derechos reservados.</p>
+        <p className="text-sm text-gray-600 font-medium">© 2026 Impulso Digital. Todos los derechos reservados.</p>
       </div>
     </div>
   </footer>
