@@ -4,7 +4,7 @@ export default function Footer() {
     <div className="max-w-7xl mx-auto px-6 md:px-8 lg:px-12 py-16 md:py-20">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12 mb-16">
         <div>
-          <h3 className="text-2xl font-bold mb-4 text-black">Impulso Digital</h3>
+          <h3 className="text-2xl font-bold mb-4 text-black">Oliver Lucero</h3>
           <p className="text-base text-gray-600 mb-6 leading-relaxed">Transformamos ideas en soluciones digitales de alta calidad para empresas de todos los tamaños.</p>
 {/*             <div className="flex gap-2">
               <button className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&amp;_svg]:pointer-events-none [&amp;_svg]:size-4 [&amp;_svg]:shrink-0 hover-elevate active-elevate-2 border border-transparent h-9 w-9" data-testid="button-social-github">
@@ -52,7 +52,7 @@ export default function Footer() {
         </div> */}
       </div>
       <div className="border-t-2 border-gray-200 pt-8 text-center">
-        <p className="text-sm text-gray-600 font-medium">© 2026 Impulso Digital. Todos los derechos reservados.</p>
+        <p className="text-sm text-gray-600 font-medium">© 2026 Oliver Lucero. Todos los derechos reservados.</p>
       </div>
     </div>
   </footer>
